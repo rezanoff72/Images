@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333333"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="2 кружочка.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="47.265095"
+     inkscape:cx="8.6110056"
+     inkscape:cy="7.6589288"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6643">
+      <stop
+         style="stop-color:#a90075;stop-opacity:1;"
+         offset="0"
+         id="stop6639" />
+      <stop
+         style="stop-color:#c300ff;stop-opacity:0;"
+         offset="1"
+         id="stop6641" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2939"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#007200;stop-opacity:1;"
+         offset="0"
+         id="stop2937" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6643"
+       id="radialGradient7505"
+       cx="0.79374999"
+       cy="0.79374999"
+       fx="0.79374999"
+       fy="0.79374999"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.0630729,4.2705909,-1.2125842,-1.1536618,7.6271362,-1.6803125)" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:url(#radialGradient7505);fill-opacity:1;fill-rule:evenodd;stroke-width:0.176386"
+       id="path350"
+       cx="3.4395833"
+       cy="0.79374999"
+       r="0.52916664" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path350"
+       id="use7509"
+       transform="translate(-2.6458337,2.6458333)" />
+  </g>
+</svg>
