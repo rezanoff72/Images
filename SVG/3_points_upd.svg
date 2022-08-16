@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333333"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="2_points.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showguides="true"
+     inkscape:lockguides="false"
+     inkscape:zoom="47.265095"
+     inkscape:cx="6.0721342"
+     inkscape:cy="7.6589289"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6643">
+      <stop
+         style="stop-color:#fb00a0;stop-opacity:1;"
+         offset="0"
+         id="stop6639" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop6641" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2939"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#007200;stop-opacity:1;"
+         offset="0"
+         id="stop2937" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6643"
+       id="radialGradient7505"
+       cx="1.3057045"
+       cy="0.27882823"
+       fx="1.3057045"
+       fy="0.27882823"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.7081414,2.2595341,-2.0463296,1.5469725,1.6510795,-2.7166243)"
+       spreadMethod="pad" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4036"
+       x="-0.75111883"
+       y="-0.7852606"
+       width="2.5022377"
+       height="2.5705212">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.080589263"
+         id="feGaussianBlur4038" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4043"
+       inkscape:label="точка"
+       transform="translate(-1.3229167,0.26458332)">
+      <circle
+         style="opacity:1;fill:url(#radialGradient7505);fill-opacity:1;fill-rule:evenodd;stroke-width:0.176386"
+         id="path350"
+         cx="3.4395833"
+         cy="0.79374999"
+         r="0.52916664"
+         inkscape:label="круг" />
+      <ellipse
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.264583;filter:url(#filter4036)"
+         id="path4026"
+         cx="3.3139324"
+         cy="0.67174309"
+         rx="0.12875076"
+         ry="0.1231529"
+         transform="matrix(1.0275021,0,0,1.0742067,-0.0977807,-0.0601326)"
+         inkscape:label="блик" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4043"
+       id="use4059"
+       transform="translate(-1.3229166,2.1166667)"
+       inkscape:label="клон" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4043"
+       id="use4226"
+       transform="translate(1.3229167,2.1166667)"
+       inkscape:label="клон2" />
+  </g>
+</svg>
